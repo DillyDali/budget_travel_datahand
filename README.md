@@ -7,4 +7,5 @@ My Charybdis Mini ZMK build using nice!nano's and a PMW 3610 trackball sensor. F
 
 links:
 
-[nicenanov2 €25](https://splitkb.com/products/nice-nano) / [ali clone €5](aliexpress.com/item/1005006019812115.html)
+microcontroller(the brains)  [nicenanov2 €25](https://splitkb.com/products/nice-nano) / [ali clone €5](aliexpress.com/item/1005006019812115.html)
+PMW3160(trackball sensor) [pmw3160 breakoutboard €21](https://lectronz.com/products/pmw3610-breakout-board) / [ali version €12](aliexpress.com/item/1005006913778101.html?) [pinout ali](https://github.com/sapristi/zmk-config-charybdis-nano-wireless)
