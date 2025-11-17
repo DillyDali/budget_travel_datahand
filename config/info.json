@@ -52,17 +52,17 @@
         { "label":      "Pb", "row": 7, "col":  3, "x":    18.5, "y":   -1 },
         { "label":   "BSPCb", "row": 7, "col":  4, "x":    19.5, "y":   0 },
 
-        { "label":    "ESCb", "row": 8, "col":  0, "x":     8.5, "y":   2.5 },
-        { "label":      "Qb", "row": 8, "col":  1, "x":     8.5, "y":   3.5 },
-        { "label":      "Wb", "row": 8, "col":  2, "x":     9.5, "y":   3 },
-        { "label":      "Eb", "row": 8, "col":  3, "x":     10.5, "y":  2.5 },
-        { "label":      "Rb", "row": 8, "col":  4, "x":     10.5, "y":  3.5 },
+        { "label":    "ESCc", "row": 8, "col":  0, "x":     8.5, "y":   2.5 },
+        { "label":      "Qc", "row": 8, "col":  1, "x":     8.5, "y":   3.5 },
+        { "label":      "Wc", "row": 8, "col":  2, "x":     9.5, "y":   3 },
+        { "label":      "Ec", "row": 8, "col":  3, "x":     10.5, "y":  2.5 },
+        { "label":      "Rc", "row": 8, "col":  4, "x":     10.5, "y":  3.5 },
 
-        { "label":      "Ub", "row": 9, "col":  0, "x":    17.5, "y":   2.5 },
-        { "label":      "Ib", "row": 9, "col":  1, "x":    17.5, "y":   3.5 },
-        { "label":      "Ob", "row": 9, "col":  2, "x":    18.5, "y":   3 },
-        { "label":      "Pb", "row": 9, "col":  3, "x":    19.5, "y":   2.5 },
-        { "label":   "BSPCb", "row": 9, "col":  4, "x":    19.5, "y":   3.5 }
+        { "label":      "Uc", "row": 9, "col":  0, "x":    17.5, "y":   2.5 },
+        { "label":      "Ic", "row": 9, "col":  1, "x":    17.5, "y":   3.5 },
+        { "label":      "Oc", "row": 9, "col":  2, "x":    18.5, "y":   3 },
+        { "label":      "Pc", "row": 9, "col":  3, "x":    19.5, "y":   2.5 },
+        { "label":   "BSPCc", "row": 9, "col":  4, "x":    19.5, "y":   3.5 }
 
       ]
     }
