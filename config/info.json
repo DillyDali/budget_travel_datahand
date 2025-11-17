@@ -10,11 +10,11 @@
         { "label":      "LpinkyNorth", "row": 0, "col":  3, "x":     1, "y":   -1 },
         { "label":       "LpinkyEast", "row": 0, "col":  4, "x":     2, "y":    0 },
 
-        { "label":       "RpinkyWest", "row": 1, "col":  0, "x":    20, "y":    0 },
-        { "label":      "RpinkySouth", "row": 1, "col":  1, "x":    21, "y":    1 },
-        { "label":     "RpinkyCentre", "row": 1, "col":  2, "x":    21, "y":    0 },
-        { "label":      "RpinkyNorth", "row": 1, "col":  3, "x":    21, "y":   -1 },
-        { "label":       "RpinkyEast", "row": 1, "col":  4, "x":    22, "y":    0 },
+        { "label":       "RpinkyWest", "row": 1, "col":  0, "x":    21, "y":    0 },
+        { "label":      "RpinkySouth", "row": 1, "col":  1, "x":    22, "y":    1 },
+        { "label":     "RpinkyCentre", "row": 1, "col":  2, "x":    22, "y":    0 },
+        { "label":      "RpinkyNorth", "row": 1, "col":  3, "x":    22, "y":   -1 },
+        { "label":       "RpinkyEast", "row": 1, "col":  4, "x":    23, "y":    0 },
 
         { "label":        "LringWest", "row": 2, "col":  0, "x":   2.5, "y": -1.5 },
         { "label":       "LringSouth", "row": 2, "col":  1, "x":   3.5, "y": -0.5 },
@@ -22,11 +22,11 @@
         { "label":       "LringNorth", "row": 2, "col":  3, "x":   3.5, "y": -2.5 },
         { "label":        "LringEast", "row": 2, "col":  4, "x":   4.5, "y": -1.5 },
 
-        { "label":        "RringWest", "row": 3, "col":  0, "x":  17.5, "y": -1.5 },
-        { "label":       "RringSouth", "row": 3, "col":  1, "x":  18.5, "y": -0.5 },
-        { "label":      "RringCentre", "row": 3, "col":  2, "x":  18.5, "y": -1.5 },
-        { "label":       "RringNorth", "row": 3, "col":  3, "x":  18.5, "y": -2.5 },
-        { "label":        "RringEast", "row": 3, "col":  4, "x":  19.5, "y": -1.5 },
+        { "label":        "RringWest", "row": 3, "col":  0, "x":  18.5, "y": -1.5 },
+        { "label":       "RringSouth", "row": 3, "col":  1, "x":  19.5, "y": -0.5 },
+        { "label":      "RringCentre", "row": 3, "col":  2, "x":  19.5, "y": -1.5 },
+        { "label":       "RringNorth", "row": 3, "col":  3, "x":  19.5, "y": -2.5 },
+        { "label":        "RringEast", "row": 3, "col":  4, "x":  20.5, "y": -1.5 },
 
         { "label":      "LmiddleWest", "row": 4, "col":  0, "x":    6, "y":  -1.5 },
         { "label":     "LmiddleSouth", "row": 4, "col":  1, "x":    7, "y":  -0.5 },
@@ -34,11 +34,11 @@
         { "label":     "LmiddleNorth", "row": 4, "col":  3, "x":    7, "y":  -2.5 },
         { "label":      "LmiddleEast", "row": 4, "col":  4, "x":    8, "y":  -1.5 },
 
-        { "label":      "RmiddleWest", "row": 5, "col":  0, "x":   14, "y":  -1.5 },
-        { "label":     "RmiddleSouth", "row": 5, "col":  1, "x":   15, "y":  -0.5 },
-        { "label":    "RmiddleCentre", "row": 5, "col":  2, "x":   15, "y":  -1.5 },
-        { "label":     "RmiddleNorth", "row": 5, "col":  3, "x":   15, "y":  -2.5 },
-        { "label":      "RmiddleEast", "row": 5, "col":  4, "x":   16, "y":  -1.5 },
+        { "label":      "RmiddleWest", "row": 5, "col":  0, "x":   15, "y":  -1.5 },
+        { "label":     "RmiddleSouth", "row": 5, "col":  1, "x":   16, "y":  -0.5 },
+        { "label":    "RmiddleCentre", "row": 5, "col":  2, "x":   16, "y":  -1.5 },
+        { "label":     "RmiddleNorth", "row": 5, "col":  3, "x":   16, "y":  -2.5 },
+        { "label":      "RmiddleEast", "row": 5, "col":  4, "x":   17, "y":  -1.5 },
 
         { "label":     "LpointerWest", "row": 6, "col":  0, "x":  8.5, "y":     0 },
         { "label":    "LpointerSouth", "row": 6, "col":  1, "x":  9.5, "y":     1 },
@@ -46,11 +46,11 @@
         { "label":    "LpointerNorth", "row": 6, "col":  3, "x":  9.5, "y":    -1 },
         { "label":     "LpointerEast", "row": 6, "col":  4, "x": 10.5, "y":     0 },
 
-        { "label":     "RpointerWest", "row": 7, "col":  0, "x": 11.5, "y":     0 },
-        { "label":    "RpointerSouth", "row": 7, "col":  1, "x": 12.5, "y":     1 },
-        { "label":   "RpointerCentre", "row": 7, "col":  2, "x": 12.5, "y":     0 },
-        { "label":    "RpointerNorth", "row": 7, "col":  3, "x": 12.5, "y":    -1 },
-        { "label":     "RpointerEast", "row": 7, "col":  4, "x": 13.5, "y":     0 },
+        { "label":     "RpointerWest", "row": 7, "col":  0, "x": 12.5, "y":     0 },
+        { "label":    "RpointerSouth", "row": 7, "col":  1, "x": 13.5, "y":     1 },
+        { "label":   "RpointerCentre", "row": 7, "col":  2, "x": 13.5, "y":     0 },
+        { "label":    "RpointerNorth", "row": 7, "col":  3, "x": 13.5, "y":    -1 },
+        { "label":     "RpointerEast", "row": 7, "col":  4, "x": 14.5, "y":     0 },
 
         { "label":  "LthumbNorthWest", "row": 8, "col":  0, "x":  8.5, "y":   2.5 },
         { "label":  "LthumbSouthWest", "row": 8, "col":  1, "x":  8.5, "y":   3.5 },
@@ -58,11 +58,11 @@
         { "label":  "LthumbNorthEast", "row": 8, "col":  3, "x": 10.5, "y":   2.5 },
         { "label":  "LthumbSouthEast", "row": 8, "col":  4, "x": 10.5, "y":   3.5 },
 
-        { "label":  "RthumbNorthWest", "row": 9, "col":  0, "x": 11.5, "y":   2.5 },
-        { "label":   "RthumbWestEast", "row": 9, "col":  1, "x": 11.5, "y":   3.5 },
-        { "label":     "RthumbCentre", "row": 9, "col":  2, "x": 12.5, "y":     3 },
-        { "label":  "RthumbNorthEast", "row": 9, "col":  3, "x": 13.5, "y":   2.5 },
-        { "label":  "RthumbSouthEast", "row": 9, "col":  4, "x": 13.5, "y":   3.5 }
+        { "label":  "RthumbNorthWest", "row": 9, "col":  0, "x": 12.5, "y":   2.5 },
+        { "label":   "RthumbWestEast", "row": 9, "col":  1, "x": 12.5, "y":   3.5 },
+        { "label":     "RthumbCentre", "row": 9, "col":  2, "x": 13.5, "y":     3 },
+        { "label":  "RthumbNorthEast", "row": 9, "col":  3, "x": 14.5, "y":   2.5 },
+        { "label":  "RthumbSouthEast", "row": 9, "col":  4, "x": 14.5, "y":   3.5 }
 
       ]
     }
