@@ -16,7 +16,7 @@
         { "label":      "O", "row": 0, "col": 10, "x":    21, "y":   0 },
         { "label":      "P", "row": 0, "col": 11, "x":    21, "y":   -1 },
         { "label":   "BSPC", "row": 0, "col": 12, "x":    22, "y":   0 },
-        { "label":      "Y", "row": 0, "col":  7, "x":     9, "y":  -0.8 },
+        { "label":      "Y", "row": 0, "col": 13, "x":     9, "y":  -0.9 },
 
         { "label":   "uparrow", "row": 1, "col":  0, "x":     2.5, "y":   -1.5 },
         { "label":      "A", "row": 1, "col":  1, "x":     3.5, "y":   -0.5 },
